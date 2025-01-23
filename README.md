@@ -1,4 +1,4 @@
-# ERA_V3_Assignment_12
+# A vanilla decoder-only transformer
 
 The aim of this assignment is to train a vanilla decoder only transfomer model with 124M ore parameters in such a way
 that the test loss is less than  0.099999. 
