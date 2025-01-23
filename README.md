@@ -20,37 +20,6 @@ Optimizer: AdamW
 
 # Average loss at the end of 15th epoch was 0.0778
 
-# Generated sequences
-
-Sequence 1:
-Input: Gentlemen, for shame, forbear this outrage!
-Tybalt, Mercutio, the prince expressly hath
-Forbidden bandying in Verona streets:
-Hold, Tybalt! good Mercutio!
-
-MERCUTIO:
-I am hurt.
-A plague o'
-Generated: Gentlemen, for shame, forbear this outrage!
-Tybalt, Mercutio, the prince expressly hath
-Forbidden bandying
-**************************************************
-Sequence 2:
-Input:  both your houses! I am sped.
-Is he gone, and hath nothing?
-
-BENVOLIO:
-What, art thou hurt?
-
-MERCUTIO:
-Ay, ay, a scratch, a scratch; marry, 'tis enough.
-Where is my page? Go, villain
-Generated:  both your houses! I am sped.
-Is he gone, and hath nothing?
-
-BENVOLIO:
-What, art thou hurt
-**************************************************
 
 # Training logs
 
@@ -146,3 +115,8 @@ Average Loss: 0.0778
 Time: 64.13s
 --------------------------------------------------
 Training finished!
+
+# Generated sequences
+
+![image](https://github.com/user-attachments/assets/528dfc01-d901-4263-8282-2794fc23174c)
+
